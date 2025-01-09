@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body
+bgcolour="red">
+<ul>
+<li id="red">    <a href="Color.html">red</a>  
+ </li>      
+<li>  <a href="green.html">Green</a>             </li>           
+<li>    <a href="blue.html">Blue</a>   
+    </li>       
+</ul>
+</body>
+</html>
+
+
